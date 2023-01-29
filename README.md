@@ -2,12 +2,11 @@
 <a>Rose Community</a>
 <h6>Discord Rose Community Main Bot.</h6>
 <h6>V1.0.1</6>
-<h6>Maintined With Me.</h6>
 </div></br>
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1058321121113546783/1066833632859258990/logorose.png" width="100px" style="height: 20%" /> 
-</div></br>
+</div>
 
 
 ## Getting Started
@@ -27,4 +26,6 @@ Before starting the bot, make a `localconfig.json` file in the src directory wit
 }
 ```
 
-Run `npm run depcmd` to deploy the bot's commands to the server.
+<div align="left">
+<>
+</div>
