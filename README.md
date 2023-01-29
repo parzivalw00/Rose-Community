@@ -10,16 +10,21 @@
 </div></br>
 
 
-## Contributing
+## Getting Started
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+`npm install` installs the dependencies.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+`npm start` starts the bot.
 
-<div align="left">
-<>
-</div>
+Before starting the bot, make a `localconfig.json` file in the src directory with the following contents:
+
+```json
+{
+    "token": "YOUR_TOKEN_HERE",
+    "guildId": "YOUR_GUILD_ID_HERE",
+    "clientId": "BOT_ID_HERE",
+    "publicKey": "YOUR_PUBLIC_KEY_HERE",
+}
+```
+
+Run `npm run depcmd` to deploy the bot's commands to the server.
