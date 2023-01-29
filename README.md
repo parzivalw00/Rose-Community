@@ -2,12 +2,11 @@
 <a>Rose Community</a>
 <h6>Discord Rose Community Main Bot.</h6>
 <h6>V1.0.1</6>
-<h6>Maintined With Me.</h6>
 </div></br>
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1058321121113546783/1066833632859258990/logorose.png" width="100px" style="height: 20%" /> 
-</div></br>
+</div>
 
 
 ## Contributing
@@ -19,7 +18,3 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<div align="left">
-<>
-</div>
