@@ -25,7 +25,4 @@ Before starting the bot, make a `localconfig.json` file in the src directory wit
     "publicKey": "YOUR_PUBLIC_KEY_HERE",
 }
 ```
-
-<div align="left">
-<>
-</div>
+Run `npm run depcmd` to deploy the bot's commands to the server.
