@@ -2,11 +2,11 @@
   "name": "mydiscordbot",
   "version": "1.0.0",
   "description": "Rose Community Discord Bot",
-  "main": "dist/index.js",
+  "main": "dist/index.ts",
   "scripts": {
     "build": "rm -rf ./dist && tsc --build",
-    "start": "npm run build && node dist/index.js",
-    "depcmd": "npm run build && node dist/commands/deploy-commands.js"
+    "start": "npm run build && node dist/index.ts",
+    "depcmd": "npm run build && node dist/commands/deploy-commands.ts"
   },
   "keywords": [],
   "author": "",
