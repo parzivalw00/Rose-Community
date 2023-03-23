@@ -1,6 +1,6 @@
 {
-    "token": "MTA2OTA4NDIzMzgyMzQ0MDkyNg.GwDsW7.QVOSLlmQvV3MHULIBIoKCa2Mu2jMNyVzRvpZSQ",
-    "guildId": "YOUR_GUILD_ID_HERE",
-    "clientId": "1069084233823440926",
-    "publicKey": "90d5797c2ace5b4ede39a8763f38ca36afe016ae07d565253e7d2557b62a1cc0",
+    "token": "Your_Token_Here", // Bot Token.
+    "guildId": "YOUR_GUILD_ID_HERE", // Server Support ID.
+    "clientId": "1069084233823440926", // Your Aplication ID.
+    "publicKey": "Your_Public_Key", // Bot Key
 }
